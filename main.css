@@ -3,7 +3,7 @@
   src: url(derk.otf);
 }
   html {
-  cursor: url('../images/cursor.png'), default;
+  cursor: url('cursor.png'), default;
   font-family: mono;
 }
 *, *::after, *::before {
@@ -42,7 +42,7 @@ body {
   color: rgb(255, 255, 255);
   font-size: 2.5rem;
   user-select: none;
-  cursor: url("../images/cursor.png"), default;
+  cursor: url("cursor.png"), default;
 }
 .no-hover {
   display: block;
@@ -78,7 +78,7 @@ body {
   color:#fff!important;
 }
 a {
-  cursor: url("../images/cursor.png"), default;
+  cursor: url("cursor.png"), default;
   text-decoration:wavy;
   color:rgb(255, 255, 255)!important;
   text-shadow: 0 0 0.40em #98c4fa;
@@ -125,7 +125,7 @@ span::before {
   animation-duration: 500ms;
 }
 #pattern {
-  background: transparent url('../images/dot-overlay.png') repeat 0 0;
+  background: transparent url('dot-overlay.png') repeat 0 0;
   top: 0;
   left: 0;
   margin: 0;
