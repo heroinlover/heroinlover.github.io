@@ -61,7 +61,7 @@ body {
 .text-content h1 {
   font-size: 4rem;
   font-weight: 800;
-  letter-spacing: 25px;
+  letter-spacing: 0px;
   margin-left: 25px;
   user-select: none;
 }
